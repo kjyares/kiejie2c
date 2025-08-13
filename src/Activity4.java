@@ -1,13 +1,8 @@
 
-package yares;
-
 import java.util.Scanner;
 
-
-public class Yares {
-
-    
-    public static void main(String[] args) {
+public class Activity4 {
+     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
 
@@ -38,6 +33,4 @@ public class Yares {
         scanner.close();
     }
 }
-    
-    
 

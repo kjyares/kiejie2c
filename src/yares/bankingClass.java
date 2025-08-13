@@ -1,4 +1,4 @@
-package Banking;
+package yares;
 
 import java.util.Scanner;
 
